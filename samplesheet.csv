@@ -1,0 +1,4 @@
+sample_id,reads_bam
+NA12878,data/reads_father.bam
+NA12877,data/reads_mother.bam
+NA12882,data/reads_son.bam
